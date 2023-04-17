@@ -1,0 +1,13 @@
+.box{
+  padding: 20px;
+  background:  aqua;
+
+}
+
+.container{
+  width: 80%;
+  margin: auto;
+}
+.all__side{
+  margin-top: 50px;
+}
